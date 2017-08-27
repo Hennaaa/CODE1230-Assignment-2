@@ -1,0 +1,91 @@
+
+body{
+	background: white;
+	color: black;
+	text-align:center;
+	font-family:raleway;
+	font-weight: lighter;
+	font-size: 24px;
+	color: black;
+
+}
+
+h1{
+	font-family:bebas neue light;
+	letter-spacing:10px;
+	font-size: 70px;
+	text-align: center;
+	padding-top: 5%
+}
+
+h2{
+	font-family:raleway;
+	font-weight: lighter;
+	font-size: 24px;
+	color: black;
+	padding-bottom:1%;
+}
+
+h3{
+	font-family:bebas neue light;
+	font-size:52px;
+	padding-top:5%;
+}
+
+p{	
+	font-size:18px;
+	text-align:left;
+	padding-left:8%;
+	padding-right:8%;
+	line-height: 26px;
+}
+
+img{
+	padding-top:1%;
+	opacity: 1;
+}
+
+footer{
+	text-decoration:none;
+	position:fixed;
+	bottom:0;
+	right:0;
+	font-size:14px;
+	padding:1%;
+}
+
+footer a:link{
+	text-decoration:none;
+}
+
+footer a:visited{
+	text-decoration:none;
+	color:black;
+}
+
+footer a:hover{
+	text-decoration:none;
+}
+
+footer a:active{
+	text-decoration:none;
+}
+
+.topnav a{
+	float:left;
+	margin:0 0 10px 10px;
+	display:block;
+	color:white;
+	text-align:center;
+	padding:14px;
+	text-decoration:none;
+	font-size:12px;
+	background-color: #581845  ;
+
+}
+
+.topnav a:hover {
+	background-color: white;
+	color:#581845  ;
+
+}
