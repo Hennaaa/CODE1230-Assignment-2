@@ -2,20 +2,24 @@
 body{
 	background: white;
 	color: black;
-	text-align:center;
 	font-family:raleway;
 	font-weight: lighter;
-	font-size: 24px;
+	font-size: 20px;
 	color: black;
+	line-height:26px;
+	margin-left:0px;
+	
+
 
 }
 
 h1{
 	font-family:bebas neue light;
+	text-align:center;
 	letter-spacing:10px;
 	font-size: 70px;
 	text-align: center;
-	padding-top: 5%
+	padding-top: 8%
 }
 
 h2{
@@ -23,31 +27,36 @@ h2{
 	font-weight: lighter;
 	font-size: 24px;
 	color: black;
-	padding-bottom:1%;
+	padding-top:1%;
+	padding-left:10%;
 }
 
 h3{
-	font-family:bebas neue light;
-	font-size:52px;
-	padding-top:5%;
+	font-family:raleway light;
+	text-align: center;
+	font-size:30px;
+	padding-top:0%;
+	
 }
 
 p{	
-	font-size:18px;
+	margin-left:120px;
+	padding-right:8%;	
 	text-align:left;
-	padding-left:8%;
-	padding-right:8%;
 	line-height: 26px;
 }
+
+
 
 img{
 	padding-top:1%;
 	opacity: 1;
+	padding-left:1%;
 }
 
 footer{
 	text-decoration:none;
-	position:fixed;
+	position:static;
 	bottom:0;
 	right:0;
 	font-size:14px;
@@ -89,3 +98,10 @@ footer a:active{
 	color:#581845  ;
 
 }
+
+.content {
+	padding-left:5%;
+	padding-right:5%;
+	}
+
+	
